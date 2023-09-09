@@ -6,7 +6,7 @@ export default function Contato() {
     return(
         <EstruturaPagina>
         <div>
-            Contato
+            Contato Douglas Lima
         </div>
         </EstruturaPagina>
     )
