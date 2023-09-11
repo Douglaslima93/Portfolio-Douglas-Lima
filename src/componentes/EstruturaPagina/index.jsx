@@ -12,7 +12,6 @@ export default function EstruturaPagina(props) {
 
             {props.children}
 
-            <Rodape/>
         </section>
 
     )

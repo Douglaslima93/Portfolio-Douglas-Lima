@@ -10,6 +10,7 @@ export default function Topo() {
 
         <nav className="nav">
             <Link className="nav-link" to='/'>Home</Link>
+            <Link className="nav-link" to='/sobre'>Sobre mim</Link>
             <Link className="nav-link" to='/projetos'>Projetos</Link>
             <Link className="nav-link" to='/contato'>Contato</Link>
 
