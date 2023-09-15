@@ -16,7 +16,16 @@ import imagemProjeto6 from "../../../assets/imagem6.jpg";
 export default function Projetos() {
     return(
         <EstruturaPagina>
-        <section className="container-card">
+        <section>
+            <div className="texto-projetos">
+
+            <h2>Abaixo meus projetos mais recentes, confira também meus demais projetos: </h2>
+            <Link className="icon" to="https://github.com/Douglaslima93" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/></Link>
+            </div>
+            
+
+            <div className="container-card">
         
             <div className="card">
                 <img src={imagemProjeto1} rel="imagem-do-projeto"/>
@@ -106,6 +115,8 @@ export default function Projetos() {
                 <Link className="icon" to="https://gelateria-tropical.netlify.app/" target="_blank">
                 <img src={deploy} rel="Deploy"/></Link>
             </div>
+            </div>
+
             </div>
 
         </section>

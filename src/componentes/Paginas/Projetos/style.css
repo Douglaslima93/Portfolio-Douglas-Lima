@@ -1,9 +1,22 @@
+.texto-projetos {
+    padding-top: 150px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.texto-projetos h2 {
+    font-weight: 600;
+    font-size: 25px;
+}
+
 .container-card {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     gap: 50px;
-    padding-top: 180px;
+    padding-top: 50px;
     margin: 0 auto;
 }
 
@@ -41,4 +54,32 @@
 
 .icon:hover {
     scale: 1.05;
+}
+
+@media screen and (max-width: 350px) {
+    .texto-projetos {
+        padding-top: 180px;
+        padding-left: 10px;
+        padding-right: 10px;
+        flex-direction: column;
+    }
+    
+    .texto-projetos h2 {
+        font-size: 20px;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .texto-projetos {
+        padding-top: 180px;
+        padding-left: 10px;
+        padding-right: 10px;
+        flex-direction: column;
+    }
+    
+    .texto-projetos h2 {
+        font-size: 20px;
+        text-align: center;
+    }
 }
