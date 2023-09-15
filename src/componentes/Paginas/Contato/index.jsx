@@ -5,6 +5,7 @@ import { Link } from "react-router-dom";
 import whatsapp from "../../../assets/whatsapp.jpg";
 import outlook from "../../../assets/outlook.jpg";
 import gmail from "../../../assets/gmail.jpg";
+import phone from "../../../assets/phone.jpg";
 
 export default function Contato() {
     return(
@@ -25,9 +26,9 @@ export default function Contato() {
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" 
                 rel="icone-git-hub"/></Link>
 
-                <Link to="https://api.whatsapp.com/send?phone=+5515996013651" target="_blank">
-                <img src={whatsapp}
-                rel="whatsapp"/></Link>
+                <Link to="tel:+5515996013651" target="_blank">
+                <img src={phone}
+                rel="phone"/></Link>
 
                 <Link to="mailto:douglas.a.l@hotmail.com" target="_blank">
                 <img src={outlook}
