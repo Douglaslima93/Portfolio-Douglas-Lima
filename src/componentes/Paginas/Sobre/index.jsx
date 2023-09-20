@@ -13,8 +13,8 @@ export default function Sobre() {
         e cursando 4° semestre de Analise e Desenvolvimento de Sistemas, conclusão Dezembro 2023.
         </p>
 
-        <p>Minha última ocupação profissional foi como coordenador de projetos mobiliário corporativo, 
-        hoje trabalho muito bem em equipe e também sob grande demanda de projetos com prazo curto de entrega. 
+        <p>Minha última ocupação profissional foi como coordenador de projetos mobiliário corporativo. 
+        Hoje trabalho muito bem em equipe e também sob grande demanda de projetos com prazo curto de entrega. 
         </p>
 
         <p>Trabalho com as tecnologias: React js, TypeScript, JavaScript, CSS e HTML.</p>

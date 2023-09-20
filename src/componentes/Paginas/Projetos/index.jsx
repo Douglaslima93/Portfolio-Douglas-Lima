@@ -19,7 +19,7 @@ export default function Projetos() {
         <section>
             <div className="texto-projetos">
 
-            <h2>Abaixo meus projetos mais recentes, confira também meus demais projetos: </h2>
+            <h2>Abaixo meus projetos mais recentes. Confira também meus demais projetos: </h2>
             <Link className="icon" to="https://github.com/Douglaslima93" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/></Link>
             </div>
