@@ -45,5 +45,11 @@
     }   
 }
 
+@media screen and (max-width:768px) {
+    .texto-contato {
+        font-size: 20px;
+    }   
+}
+
 
 
