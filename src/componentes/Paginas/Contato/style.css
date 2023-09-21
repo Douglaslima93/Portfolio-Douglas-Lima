@@ -1,7 +1,7 @@
 .conteiner-contato {
     display: flex;
     flex-direction: column;
-    padding: 180px;
+    padding-top: 180px;
     justify-content: space-between;
     gap: 100px;
 }
@@ -31,21 +31,19 @@
 }
 
 .texto {
-    font-size: 22px;
+    font-size: 25px;
     font-weight: 600;
     text-align: center;
-    display: flex;
-    justify-content: center;
+    padding: 10px;
 }
+
+
 
 @media screen and (max-width:350px) {
     .texto-contato {
         font-size: 20px;
-    }
-
-    .texto {
-       font-size: 24px;
-       width: 300px;
-       transform: translate(-50%,0);
-    }
+    }   
 }
+
+
+
