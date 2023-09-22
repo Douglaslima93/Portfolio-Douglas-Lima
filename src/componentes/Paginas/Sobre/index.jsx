@@ -9,8 +9,8 @@ export default function Sobre() {
 
         <section className="sobre-mim">
 
-        <p><strong>Desenvolvedor Front-End</strong>, formado em Manutenção Industrial (Fatec TA) 
-        e cursando 4° semestre de Analise e Desenvolvimento de Sistemas, conclusão Dezembro 2023.
+        <p><strong>Desenvolvedor Front-End</strong>, cursando 4° semestre de Analise e Desenvolvimento 
+        de Sistemas, conclusão Dezembro 2023 e formado em Manutenção Industrial (Fatec TA)
         </p>
 
         <p>Minha última ocupação profissional foi como coordenador de projetos mobiliário corporativo. 
@@ -18,6 +18,7 @@ export default function Sobre() {
         </p>
 
         <p>Trabalho com as tecnologias: React js, TypeScript, JavaScript, CSS e HTML.</p>
+        <p>E também estou fazendo curso de JAVA, assim aprimorar mais conhecimentos com Back-end.</p>
 
         <p>Hoje tenho feito diversos projetos, landing pages, web sites, cadastro de usuário, ficha de inscrição, calculadora. 
         Cada um desses projetos pude aplicar o conhecimento que venho adquirindo no dia a dia, HTML semântico, responsividade, 
