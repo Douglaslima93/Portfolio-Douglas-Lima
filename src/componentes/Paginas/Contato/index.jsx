@@ -41,7 +41,7 @@ export default function Contato() {
             </div>
 
             <div className="texto">
-                <p>Sinta-se a vontade para entrar em contato</p>
+                <p>Sinta-se a vontade para entrar em contato.</p>
             </div>
 
         </section>
