@@ -17,7 +17,7 @@ const Home = () => {
             <div className="sobre">
 
             <h2>Olá, sou Douglas Lima</h2>
-            <span>Desenvolvedor Front end</span>
+            <span>Desenvolvedor de Software</span>
             <Link to='/projetos' className="link-projetos">Meus projetos</Link>
 
             </div>
