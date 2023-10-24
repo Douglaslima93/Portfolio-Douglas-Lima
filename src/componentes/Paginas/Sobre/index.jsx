@@ -13,15 +13,19 @@ export default function Sobre() {
         de Sistemas, conclusão Dezembro 2023 e formado em Manutenção Industrial (Fatec TA)
         </p>
 
-        <p>Minha última ocupação profissional foi como coordenador de projetos mobiliário corporativo. 
-        Hoje trabalho muito bem em equipe e também sob grande demanda de projetos com prazo curto de entrega. 
+        <p>Venho de uma transição de carreira, pude atuar na área industrial por 10 anos, 
+            onde cresci profissionalmente, minha ultima ocupação profissional nesta empresa 
+            na função de coordenador de projetos, na qual estava responsável pela equipe de engenharia,
+             desenvolvimento de novos produtos, sistema ERP desenvolvendo logicas para 
+             deixar o produto mais inteligente e de fácil acesso para pessoas que não tem 
+             experiência nesta área, trabalho em equipe. 
         </p>
 
-        <p>Trabalho com desenvolvimento Front-end, utilizando as tecnologias: React js, TypeScript, JavaScript, CSS e HTML.</p>
+        <p>Hoje trabalho com desenvolvimento Front-end, utilizando as tecnologias: React js, TypeScript, JavaScript, CSS e HTML.</p>
         <p>E também estou aprendendo a utilizar a tecnologia Java, tenho realizado alguns projetos 
             utilizando as IDEs NetBeans e Eclipse.</p>
 
-        <p>Hoje tenho feito diversos projetos, landing pages, web sites, cadastro de usuário, ficha de inscrição, calculadora. 
+        <p>Já realizei diversos projetos, landing pages, web sites, cadastro de usuário, ficha de inscrição, calculadora. 
         Cada um desses projetos pude aplicar o conhecimento que venho adquirindo no dia a dia, HTML semântico, responsividade, 
         interação usuário com a interface da página, elementos dinâmicos com atualização em tempo real, consumo de API.
         </p>
