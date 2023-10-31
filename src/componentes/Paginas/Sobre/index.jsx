@@ -18,7 +18,8 @@ export default function Sobre() {
             na função de coordenador de projetos, na qual estava responsável pela equipe de engenharia,
              desenvolvimento de novos produtos, sistema ERP desenvolvendo logicas para 
              deixar o produto mais inteligente e de fácil acesso para pessoas que não tem 
-             experiência nesta área, trabalho em equipe. 
+             experiência nesta área, hoje trabalho muito bem em equipe e também sob grande demanda 
+             de projetos com curto prazo de entrega. 
         </p>
 
         <p>Hoje trabalho com desenvolvimento Front-end, utilizando as tecnologias: React js, TypeScript, JavaScript, CSS e HTML.</p>
