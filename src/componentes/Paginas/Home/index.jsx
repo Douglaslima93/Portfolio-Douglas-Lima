@@ -30,7 +30,8 @@ const Home = () => {
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="Douglas-CSS"/>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Douglas-HTML"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Douglas-git"/>
-    
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Douglas-Node JS"/>
+            
             </section>
             </main>
 

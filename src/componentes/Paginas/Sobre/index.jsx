@@ -22,7 +22,7 @@ export default function Sobre() {
              de projetos com curto prazo de entrega. 
         </p>
 
-        <p>Hoje trabalho com desenvolvimento Front-end, utilizando as tecnologias: React js, TypeScript, JavaScript, CSS e HTML.</p>
+        <p>Hoje trabalho com desenvolvimento Front-end, utilizando as tecnologias: React js, TypeScript, JavaScript, Node js, CSS e HTML.</p>
         <p>E também estou aprendendo a utilizar a tecnologia Java, tenho realizado alguns projetos 
             utilizando as IDEs NetBeans e Eclipse.</p>
 
@@ -31,7 +31,7 @@ export default function Sobre() {
         interação usuário com a interface da página, elementos dinâmicos com atualização em tempo real, consumo de API.
         </p>
 
-        <Link className="botao-curriculo" to="https://drive.google.com/file/d/1H46NnF1W6CSBy0wZ9yE1tcyJH6aVWzvN/view?usp=sharing" target="_blank">Curriculo</Link>
+        <Link className="botao-curriculo" to="https://docs.google.com/document/d/1G0vSW3lrUxX4kcNx4CqTuQUw9Wo0qu9r/edit?usp=sharing&ouid=110805994126696405553&rtpof=true&sd=true" target="_blank">Curriculo</Link>
 
        </section>
         
