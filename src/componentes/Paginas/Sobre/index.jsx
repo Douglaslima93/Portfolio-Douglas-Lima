@@ -31,7 +31,7 @@ export default function Sobre() {
         interação usuário com a interface da página, elementos dinâmicos com atualização em tempo real, consumo de API.
         </p>
 
-        <Link className="botao-curriculo" to="https://docs.google.com/document/d/1G0vSW3lrUxX4kcNx4CqTuQUw9Wo0qu9r/edit?usp=sharing&ouid=110805994126696405553&rtpof=true&sd=true" target="_blank">Curriculo</Link>
+        <Link className="botao-curriculo" to="https://drive.google.com/file/d/1lfYWzMIvUTExk0hGPE9s2DcD_3tsB0gR/view?usp=sharing" target="_blank">Curriculo</Link>
 
        </section>
         
