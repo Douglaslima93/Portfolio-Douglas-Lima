@@ -9,7 +9,7 @@ export default function Sobre() {
 
         <section className="sobre-mim">
 
-        <p><strong>Desenvolvedor de Software</strong>, cursando 4°semestre Analise e Desenvolvimento de Sistemas (Unip - Universidade Paulista) e formado em Manutenção Industrial (Fatec TA)
+        <p><strong>Desenvolvedor de Software</strong>, cursando 4°semestre Analise e Desenvolvimento de Sistemas, conclusão Junho 2024 (Unip - Universidade Paulista) e formado em Manutenção Industrial (Fatec TA)
         </p>
 
         <p>Venho de uma transição de carreira, pude atuar na área industrial por 10 anos, 
