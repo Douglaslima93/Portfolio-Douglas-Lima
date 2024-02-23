@@ -9,6 +9,7 @@ import imagemProjeto3 from "../../../assets/imagem3.jpg";
 import imagemProjeto4 from "../../../assets/imagem4.jpg";
 import imagemProjeto5 from "../../../assets/imagem5.jpg";
 import imagemProjeto6 from "../../../assets/imagem6.jpg";
+import imagemProjeto7 from '../../../assets/imagem7.png';
 
 
 
@@ -27,6 +28,21 @@ export default function Projetos() {
 
             <div className="container-card">
         
+            <div className="card">
+                <img src={imagemProjeto7} rel="imagem-do-projeto"/>
+
+                <div className="container-icon">
+
+                <Link className="icon" to="https://github.com/Douglaslima93/web-movie" target="_blank">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" 
+                    rel="icone-git-hub"/>
+                </Link>
+                
+                <Link className="icon" to="https://top-movies-10.netlify.app/" target="_blank">
+                <img src={deploy} rel="Deploy"/></Link>
+            </div>
+            </div>
+
             <div className="card">
                 <img src={imagemProjeto1} rel="imagem-do-projeto"/>
 
